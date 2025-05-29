@@ -1,4 +1,4 @@
-# 📊 Social Media Campaign Analysis (Power BI Project)
+# 📊 Social Media Campaign Analysis
 
 This project analyzes social media advertising campaigns using Power BI. The goal is to uncover actionable insights from campaign data across various platforms, demographics, and time periods to optimize future marketing strategies.
 
