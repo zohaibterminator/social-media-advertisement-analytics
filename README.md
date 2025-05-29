@@ -10,10 +10,10 @@ Social media has become a crucial marketing and intelligence tool. This project 
 
 ---
 
-<h3 align="center">📊 Power BI Dashboard Overview</h3>
+<h3 align="left">📊 Power BI Dashboard Overview</h3>
 
 <p align="center">
-  <img src="dashboard.png" alt="Dashboard Screenshot" width="600"/>
+  <img src="dashboard.jpg" alt="Dashboard Screenshot" width="600"/>
 </p>
 
 ---
